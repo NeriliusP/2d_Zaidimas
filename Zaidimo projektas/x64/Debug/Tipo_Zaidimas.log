@@ -1,0 +1,44 @@
+﻿  Enemy.cpp
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.cpp(170,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.cpp(178,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.cpp(184,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.cpp(190,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Shell.cpp
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Player.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Enemy.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Game.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\Shell.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Tipo_Zaidimas.vcxproj -> D:\Users\Nierka\Documents\Programavimas\.vscodestudio\Tipo_Zaidimas\x64\Debug\Tipo_Zaidimas.exe
